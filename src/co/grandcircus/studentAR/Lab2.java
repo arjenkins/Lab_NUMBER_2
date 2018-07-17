@@ -3,7 +3,7 @@ package co.grandcircus.studentAR;
 import java.util.Scanner;
 //I'm making this change because David told me to
 public class Lab2 {
-
+	//This lab is better !!! because I added exclamation points!
 	public static void main(String args[]) {
 		Scanner scnr = new Scanner(System.in);
 		char userInput = 'y';
